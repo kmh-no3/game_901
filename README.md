@@ -6,11 +6,11 @@
 
 ### 🌐 オンラインでプレイ
 
-**[▶️ ゲームをプレイする](https://あなたのユーザー名.github.io/game_901/)**
+**[▶️ ゲームをプレイする](https://kmh-no3.github.io/game_901/)**
 
-> **📝 注意**: 上記のURLはプレースホルダーです。GitHub Pagesで公開後、実際のURLに置き換えてください。
+> **📝 注意**: GitHub Pagesが有効になっている場合、上記のURLでゲームにアクセスできます。
 > 
-> **公開URLの形式**: `https://あなたのユーザー名.github.io/リポジトリ名/`
+> GitHub Pagesを有効にするには、リポジトリの Settings → Pages で「/ (root)」を選択してください。
 
 ## 📁 ファイル構成
 
