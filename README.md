@@ -1,6 +1,6 @@
-# GameTemplate
+# Moon Runner
 
-シンプルなHTML5キャンバスゲームのテンプレートです。
+月と城を背景にしたシンプルなHTML5キャンバスゲームです。ジャンプして敵を避け、スコアを稼ぎましょう！
 
 ## 🎮 プレイ
 
@@ -39,6 +39,12 @@
 ### GitHub Pagesでの公開方法
 
 詳細は [GITHUB_SETUP.md](./GITHUB_SETUP.md) を参照してください。
+
+## 📚 参考資料
+
+このゲームは以下のYouTubeプレイリストを参考に作成されました：
+
+- [HTML5 Canvas ゲーム開発チュートリアル](https://youtube.com/playlist?list=PL80OIWUJ1J0GLq9SY9ozePR9kax3Uy6Xp&si=EgrM8FD3n-k4FAkN)
 
 ## 🛠️ 技術スタック
 
